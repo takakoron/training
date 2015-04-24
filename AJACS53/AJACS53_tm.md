@@ -14,21 +14,16 @@
 
 ## 概要
 
-本稿集は、DDBJ Read Annotation Pipeline (DDBJ Pipeline) を使用して、新型シーケンサ配列のアーカイブデータベース (DDBJ SRA) の 全ゲノム配列をリファレンスゲノムにマッピング、リファレンスゲノムとの配列比較からDNA多型の検出、そして、検出されたDNA多型に既知遺伝子アノテーションの注釈を行います。
+本講習は、DDBJ Read Annotation Pipeline (DDBJ Pipeline) を使用して、新型シーケンサ配列のアーカイブデータベース (DDBJ SRA) の 全ゲノム配列をリファレンスゲノムにマッピング、リファレンスゲノムとの配列比較からDNA多型の検出、そして、検出されたDNA多型に既知遺伝子アノテーションの注釈を行います。
 
 ----
 
 ## 講習の流れ
 今回の講習では、コンピュータを使って以下の内容について説明します。
 
-- 研究現場で頻繁に使われるデータベースやツールを知る
-    - 統合TV
-- 個々の遺伝子の発現プロファイルを調べる
-    - RefEx
-        - 【実習1】RefExを使って、組織特異的遺伝子を検索する
-- 数十～数千の遺伝子群の生物学的解釈
-    - DAVID
-        - 【実習2】DAVIDを用いて、発現データの結果を生物学的に解釈する
+【実習】
+- DDBJ Pipeline 基礎処理部 (https://p.ddbj.nig.ac.jp/) にてDDBJ SRAの公開データのインポート、マッピング
+- DDBJ Pipeline 高次処理部 p-galaxy (https://p-galaxy.ddbj.nig.ac.jp) にてDNA多型の検出、既知遺伝子注釈
 
 ----
 
@@ -60,6 +55,7 @@
 ### [統合TV](http://togotv.dbcls.jp/ja/)
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
     - http://togotv.dbcls.jp/ja/
+[![Gyazo](http://i.gyazo.com/35e3c7d1fdcc506d605a9c457b3bdf5b.gif)](http://gyazo.com/35e3c7d1fdcc506d605a9c457b3bdf5b)	
 [![統合TVトップページ](http://i.gyazo.com/457d7a15c537adc10d9b99596447508f.png)](http://gyazo.com/457d7a15c537adc10d9b99596447508f)
 
     - YouTube版もあります　http://www.youtube.com/user/togotv/videos
