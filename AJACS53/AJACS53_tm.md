@@ -55,7 +55,7 @@
 ### [統合TV](http://togotv.dbcls.jp/ja/)
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
     - http://togotv.dbcls.jp/ja/
-[![Gyazo](http://i.gyazo.com/35e3c7d1fdcc506d605a9c457b3bdf5b.gif)](http://gyazo.com/35e3c7d1fdcc506d605a9c457b3bdf5b)	
+[![DDBJ Pipeline 基礎部](http://i.gyazo.com/35e3c7d1fdcc506d605a9c457b3bdf5b.gif)](http://gyazo.com/35e3c7d1fdcc506d605a9c457b3bdf5b)	
 [![統合TVトップページ](http://i.gyazo.com/457d7a15c537adc10d9b99596447508f.png)](http://gyazo.com/457d7a15c537adc10d9b99596447508f)
 
     - YouTube版もあります　http://www.youtube.com/user/togotv/videos
